@@ -1,3 +1,4 @@
 Base code
 Feature A added
+Feature B added
 
